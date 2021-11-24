@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=USK314&count_private=true&show_icons=true&theme=nord" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=USK314&count_private=true&show_icons=true&theme=material-palenight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USK314&layout=compact&theme=nord" />
