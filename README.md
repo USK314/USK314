@@ -5,6 +5,12 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USK314&layout=compact&theme=material-palenight" />
 </a>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USK&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=USK&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=USK&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=USK&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=USK&theme=material-palenight)
+
 <!-- 参照 -->
 <!-- https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c -->
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md -->
