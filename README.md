@@ -9,7 +9,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=USK314&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=USK314&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=USK314&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=USK314&theme=material-palenight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=USK314&theme=nord_dark)
 
 <!-- 参照 -->
 <!-- https://qiita.com/zizi4n5/items/f8076cb25bbf64a9bc1c -->
