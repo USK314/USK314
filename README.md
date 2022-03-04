@@ -18,7 +18,7 @@
   </a> 
 <!--  c++  -->
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
-    <img src="	https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
 <!--  flutter  -->
   <a href="https://flutter.dev/?gclid=CjwKCAiAjoeRBhAJEiwAYY3nDL4_NkRUYtMlzCL2uxVeu93EhYR1J6-LdjbU2ZMjwM6prUMFfLLr0xoCCssQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"> 
@@ -30,7 +30,7 @@
   </a> 
 <!--  heroku  -->
   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> 
-    <img src="	https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
 </p>
 
